@@ -1,0 +1,30 @@
+{
+  "name": "wuxp_components_definition",
+  "version": "0.0.1",
+  "description": "react components definition",
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "http://nexus.oaknt.com:18081/repository/oak_npm_hosted/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengwuxp/wuxp_components_definition.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fengwuxp/wuxp_components_definition/issues"
+  },
+  "homepage": "https://github.com/fengwuxp/wuxp_components_definition#readme",
+  "scripts": {
+    "npm_publish": "npm publish"
+  },
+  "keywords": [
+    "react",
+    "typescript"
+  ],
+  "author": "wuxp",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^10.5.4",
+    "typescript": "^2.9.2"
+  }
+}
